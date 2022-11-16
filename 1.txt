@@ -1,0 +1,1 @@
+https://download.oracle.com/otn/java/jdk/8u351-b10/10e8cce67c7843478f41411b7003171c/jdk-8u351-linux-i586.tar.gz?AuthParam=1668596648_2d146ce939c1e6711b04c61efa62e1b0
